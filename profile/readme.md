@@ -22,7 +22,7 @@ GDK Software is dedicated to helping organizations succeed with their Delphi app
 
 ### Products
 
-- **[Codolex](https://codolex.com)** - Our low-code platform for rapid Delphi development
+- **[Codolex](https://codolex.ai)** - AI assistant that answers business questions directly from your ERPs, CRMs, and databases
 
 ## Open Source Projects
 
@@ -39,7 +39,6 @@ We actively contribute to the Delphi community through open-source tools and lib
 ### 🛠️ Developer Tools
 
 - **[ToolsAPI-helper](https://github.com/GDKsoftware/ToolsAPI-helper)** - Enhanced IDE integration tools for Delphi developers
-- **[Codolex-Demos](https://github.com/GDKsoftware/Codolex-Demos)** - Demo projects showcasing best practices
 
 ### 🧩 Utility Libraries
 
@@ -76,4 +75,3 @@ We're here to help! Contact us at info@gdksoftware.com
 - 📧 Email: info@gdksoftware.com
 - 🌐 Website: [gdksoftware.com](https://gdksoftware.com)
 - 💼 GitHub: [@GDKsoftware](https://github.com/GDKsoftware)
-- 🔧 Codolex: [codolex.com](https://codolex.com)
