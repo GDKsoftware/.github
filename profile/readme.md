@@ -28,16 +28,25 @@ GDK Software is dedicated to helping organizations succeed with their Delphi app
 
 We actively contribute to the Delphi community through open-source tools and libraries:
 
+### 📚 Featured Libraries
+
+- **[Delphi-MCP-Server](https://github.com/GDKsoftware/Delphi-MCP-Server)** - Native Delphi Server implementation of the Model Context Protocol (MCP)
+- **[Microsoft365-4D](https://github.com/GDKsoftware/Microsoft365-4D)** - Microsoft 365 integration via Graph API: Mail, Calendar, Contacts, SharePoint. OAuth2 with PKCE, no external dependencies
+- **[OfficeXML4D](https://github.com/GDKsoftware/OfficeXML4D)** - Read and write Word and Excel (Office Open XML) documents without requiring Microsoft Office
+- **[Javascript4D](https://github.com/GDKsoftware/Javascript4D)** - Native ECMAScript 5.1 parser and interpreter written in pure Delphi
+- **[Toon4D](https://github.com/GDKsoftware/Toon4D)** - JSON to TOON encoder — 30-60% token reduction for LLM prompts
+
 ### 🛠️ Developer Tools
 
 - **[ToolsAPI-helper](https://github.com/GDKsoftware/ToolsAPI-helper)** - Enhanced IDE integration tools for Delphi developers
 - **[Codolex-Demos](https://github.com/GDKsoftware/Codolex-Demos)** - Demo projects showcasing best practices
 
-### 📚 Libraries
+### 🧩 Utility Libraries
 
 - **[Underscore4d](https://github.com/GDKsoftware/Underscore4d)** - Functional programming utilities for Delphi
 - **[firedac-threaded](https://github.com/GDKsoftware/firedac-threaded)** - Thread-safe database connections
-- **[delphi-sso](https://github.com/GDKsoftware/delphi-sso)** - Windows Single Sign-On authentication library
+- **[Windows-SSO](https://github.com/GDKsoftware/Windows-SSO)** - Windows Single Sign-On authentication library
+- **[Hypothesis4D](https://github.com/GDKsoftware/Hypothesis4D)** - Property-based testing for Delphi, inspired by Python's Hypothesis
 
 ## Contributing
 
