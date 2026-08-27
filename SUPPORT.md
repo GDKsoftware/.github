@@ -23,7 +23,8 @@ them commercially we offer:
 - **Sponsored development**: we build and maintain the features your product
   needs, in the open, as part of the library
 
-[GDK Software](https://gdksoftware.com) is a Delphi-focused software company
-with offices in the Netherlands, UK, USA and Brazil. Contact us at
-[gdksoftware.com/contact-us](https://gdksoftware.com/contact-us) to discuss
-what you need.
+[GDK Software](https://gdksoftware.com) is a Delphi specialist: we build,
+upgrade and maintain Delphi applications worldwide, and offer Delphi (AI)
+consultancy, from our offices in the Netherlands, the UK and the USA. Contact
+us at [gdksoftware.com/contact-us](https://gdksoftware.com/contact-us) to
+discuss what you need.
