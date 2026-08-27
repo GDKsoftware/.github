@@ -4,7 +4,7 @@ Welcome to the public repositories of GDK Software.
 
 ## About Us
 
-GDK Software is dedicated to helping organizations succeed with their Delphi applications. With offices in the Netherlands, UK, Brazil, and USA, we provide global expertise with a personal, no-nonsense approach. We believe in building long-term relationships and delivering sustainable, quality solutions.
+GDK Software is dedicated to helping organizations succeed with their Delphi applications. We build, upgrade and maintain Delphi applications worldwide, with a personal, no-nonsense approach. We believe in building long-term relationships and delivering sustainable, quality solutions.
 
 **Website:** [gdksoftware.com](https://gdksoftware.com)  
 **Email:** info@gdksoftware.com
