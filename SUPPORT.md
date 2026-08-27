@@ -25,6 +25,6 @@ them commercially we offer:
 
 [GDK Software](https://gdksoftware.com) is a Delphi specialist: we build,
 upgrade and maintain Delphi applications worldwide, and offer Delphi (AI)
-consultancy, from our offices in the Netherlands, the UK and the USA. Contact
-us at [gdksoftware.com/contact-us](https://gdksoftware.com/contact-us) to
-discuss what you need.
+consultancy. Contact us at
+[gdksoftware.com/contact-us](https://gdksoftware.com/contact-us) to discuss
+what you need.
