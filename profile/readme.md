@@ -28,32 +28,68 @@
 
 ### More libraries
 
-| | |
-|:--|:--|
-| [Pdf4D](https://github.com/GDKsoftware/Pdf4D) | Read PDF documents: pages, outlines, form fields, attachments and text extraction. A native port of Apache PDFBox |
-| [Chart4D](https://github.com/GDKsoftware/Chart4D) | Publication-ready charts for VCL and FMX with clean newspaper-style defaults and PNG export |
-| [Microsoft365-4D](https://github.com/GDKsoftware/Microsoft365-4D) | Mail, Calendar, Contacts and SharePoint via the Graph API, with OAuth2 and PKCE |
-| [Javascript4D](https://github.com/GDKsoftware/Javascript4D) | JavaScript parser and interpreter: ECMAScript 5.1 plus ES2015+ features such as classes, promises and generators |
+<table>
+  <tr>
+    <td width="190" valign="top"><a href="https://github.com/GDKsoftware/Pdf4D"><b>Pdf4D</b></a></td>
+    <td valign="top">Read PDF documents: pages, outlines, form fields, attachments and text extraction. A native port of Apache PDFBox</td>
+  </tr>
+  <tr>
+    <td width="190" valign="top"><a href="https://github.com/GDKsoftware/Chart4D"><b>Chart4D</b></a></td>
+    <td valign="top">Publication-ready charts for VCL and FMX with clean newspaper-style defaults and PNG export</td>
+  </tr>
+  <tr>
+    <td width="190" valign="top"><a href="https://github.com/GDKsoftware/Microsoft365-4D"><b>Microsoft365-4D</b></a></td>
+    <td valign="top">Mail, Calendar, Contacts and SharePoint via the Graph API, with OAuth2 and PKCE</td>
+  </tr>
+  <tr>
+    <td width="190" valign="top"><a href="https://github.com/GDKsoftware/Javascript4D"><b>Javascript4D</b></a></td>
+    <td valign="top">JavaScript parser and interpreter: ECMAScript 5.1 plus ES2015+ features such as classes, promises and generators</td>
+  </tr>
+</table>
 
 ### MCP &amp; AI
 
 Connect your Delphi applications and data to Claude and other AI assistants through the Model Context Protocol.
 
-| | |
-|:--|:--|
-| [MCPAuth4D](https://github.com/GDKsoftware/MCPAuth4D) | Central OAuth server and client with linked upstream accounts, so you can connect your Delphi MCP servers to Claude |
-| [MicrosoftMCP](https://github.com/GDKsoftware/MicrosoftMCP) | Microsoft 365 MCP server with multiple mailboxes per user |
-| [Toon4D](https://github.com/GDKsoftware/Toon4D) | JSON to TOON encoder: 30-60% token reduction for LLM prompts |
+<table>
+  <tr>
+    <td width="190" valign="top"><a href="https://github.com/GDKsoftware/MCPAuth4D"><b>MCPAuth4D</b></a></td>
+    <td valign="top">Central OAuth server and client with linked upstream accounts, so you can connect your Delphi MCP servers to Claude</td>
+  </tr>
+  <tr>
+    <td width="190" valign="top"><a href="https://github.com/GDKsoftware/MicrosoftMCP"><b>MicrosoftMCP</b></a></td>
+    <td valign="top">Microsoft 365 MCP server with multiple mailboxes per user</td>
+  </tr>
+  <tr>
+    <td width="190" valign="top"><a href="https://github.com/GDKsoftware/Toon4D"><b>Toon4D</b></a></td>
+    <td valign="top">JSON to TOON encoder: 30-60% token reduction for LLM prompts</td>
+  </tr>
+</table>
 
 ### Developer tools and utilities
 
-| | |
-|:--|:--|
-| [ToolsAPI-helper](https://github.com/GDKsoftware/ToolsAPI-helper) | Helpers and classes that make building your own Delphi IDE extensions with the ToolsAPI much easier |
-| [Underscore4d](https://github.com/GDKsoftware/Underscore4d) | Functional programming utilities for Delphi |
-| [firedac-threaded](https://github.com/GDKsoftware/firedac-threaded) | Thread-safe FireDAC database connections |
-| [Windows-SSO](https://github.com/GDKsoftware/Windows-SSO) | Windows Single Sign-On authentication library |
-| [Hypothesis4D](https://github.com/GDKsoftware/Hypothesis4D) | Property-based testing for Delphi, inspired by Python's Hypothesis |
+<table>
+  <tr>
+    <td width="190" valign="top"><a href="https://github.com/GDKsoftware/ToolsAPI-helper"><b>ToolsAPI-helper</b></a></td>
+    <td valign="top">Helpers and classes that make building your own Delphi IDE extensions with the ToolsAPI much easier</td>
+  </tr>
+  <tr>
+    <td width="190" valign="top"><a href="https://github.com/GDKsoftware/Underscore4d"><b>Underscore4d</b></a></td>
+    <td valign="top">Functional programming utilities for Delphi</td>
+  </tr>
+  <tr>
+    <td width="190" valign="top"><a href="https://github.com/GDKsoftware/firedac-threaded"><b>firedac-threaded</b></a></td>
+    <td valign="top">Thread-safe FireDAC database connections</td>
+  </tr>
+  <tr>
+    <td width="190" valign="top"><a href="https://github.com/GDKsoftware/Windows-SSO"><b>Windows-SSO</b></a></td>
+    <td valign="top">Windows Single Sign-On authentication library</td>
+  </tr>
+  <tr>
+    <td width="190" valign="top"><a href="https://github.com/GDKsoftware/Hypothesis4D"><b>Hypothesis4D</b></a></td>
+    <td valign="top">Property-based testing for Delphi, inspired by Python's Hypothesis</td>
+  </tr>
+</table>
 
 <sub>**Contributing.** We welcome contributions! **Report issues** when you find a bug, **submit pull requests** with improvements, **help with documentation**, or simply **star and share** our repositories. Most of our open-source projects use the **MIT License**; check each repository for its specific license.</sub>
 
@@ -69,49 +105,49 @@ GDK Software is dedicated to helping organizations succeed with their Delphi app
 
 <table>
   <tr>
-    <td width="50%" valign="top">
-      <img src="assets/services/delphi-development.svg" width="44" align="left" alt="">
+    <td valign="top"><img src="assets/services/delphi-development.svg" width="44" alt=""></td>
+    <td valign="top">
       <b>Delphi Development</b><br>
       <sub>Custom software solutions built with expertise</sub>
     </td>
-    <td width="50%" valign="top">
-      <img src="assets/services/application-upgrades.svg" width="44" align="left" alt="">
+    <td valign="top"><img src="assets/services/application-upgrades.svg" width="44" alt=""></td>
+    <td valign="top">
       <b>Application Upgrades</b><br>
       <sub>Modernizing legacy Delphi applications</sub>
     </td>
   </tr>
   <tr>
-    <td width="50%" valign="top">
-      <img src="assets/services/claude-code-training.svg" width="44" align="left" alt="">
+    <td valign="top"><img src="assets/services/claude-code-training.svg" width="44" alt=""></td>
+    <td valign="top">
       <b>Claude Code Training</b><br>
       <sub>Helping development teams work effectively with Claude Code</sub>
     </td>
-    <td width="50%" valign="top">
-      <img src="assets/services/ai-business-processes.svg" width="44" align="left" alt="">
+    <td valign="top"><img src="assets/services/ai-business-processes.svg" width="44" alt=""></td>
+    <td valign="top">
       <b>AI in Business Processes</b><br>
       <sub>Implementing AI in your business processes and connecting it to your systems</sub>
     </td>
   </tr>
   <tr>
-    <td width="50%" valign="top">
-      <img src="assets/services/maintenance-support.svg" width="44" align="left" alt="">
+    <td valign="top"><img src="assets/services/maintenance-support.svg" width="44" alt=""></td>
+    <td valign="top">
       <b>Maintenance &amp; Support</b><br>
       <sub>Keeping your applications running smoothly</sub>
     </td>
-    <td width="50%" valign="top">
-      <img src="assets/services/code-quality.svg" width="44" align="left" alt="">
+    <td valign="top"><img src="assets/services/code-quality.svg" width="44" alt=""></td>
+    <td valign="top">
       <b>Code Quality Assessment</b><br>
       <sub>Improving code maintainability and performance</sub>
     </td>
   </tr>
   <tr>
-    <td width="50%" valign="top">
-      <img src="assets/services/architecture.svg" width="44" align="left" alt="">
+    <td valign="top"><img src="assets/services/architecture.svg" width="44" alt=""></td>
+    <td valign="top">
       <b>Architecture Improvement</b><br>
       <sub>Restructuring applications for better scalability</sub>
     </td>
-    <td width="50%" valign="top">
-      <img src="assets/services/developer-training.svg" width="44" align="left" alt="">
+    <td valign="top"><img src="assets/services/developer-training.svg" width="44" alt=""></td>
+    <td valign="top">
       <b>Developer Training</b><br>
       <sub>Sharing knowledge to empower your team</sub>
     </td>
